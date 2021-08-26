@@ -124,7 +124,8 @@
     },
     "$Notification": {
         "punch-reminder": "別忘了打卡！",
-        "time-to-leave": "你還好嗎？我想現在是時候離開了。"
+        "time-to-leave": "你還好嗎？我想現在是時候離開了。",
+        "dismiss-for-today": "Dismiss for today"
     },
     "$Preferences": {
         "allowRecurringNotifications": "允許定期通知",
@@ -212,5 +213,9 @@
     },
     "$Generic": {
         "hours-on-invalid": "this.setCustomValidity(\"請以有效的 24 小時格式輸入時間，從 00:00 到 23:59\")"
+<<<<<<< HEAD
       }
+=======
+    }
+>>>>>>> c63cdb7a82bdd951c3206c6e07dcb91ce532252e
 }

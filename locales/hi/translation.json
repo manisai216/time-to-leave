@@ -124,7 +124,8 @@
     },
     "$Notification": {
         "punch-reminder": "में पंच करने के लिए मत भूलना!",
-        "time-to-leave": "सुनो! मुझे लगता है कि यह छोड़ने का समय है।"
+        "time-to-leave": "सुनो! मुझे लगता है कि यह छोड़ने का समय है।",
+        "dismiss-for-today": "Dismiss for today"
     },
     "$Preferences": {
         "allowRecurringNotifications": "पुनरावर्ती सूचनाएँ दें",
@@ -212,5 +213,9 @@
     },
     "$Generic": {
         "hours-on-invalid": "this.setCustomValidity(\"कृपया 24 घंटे के मान्य प्रारूप में 00:00 से 23:59 तक का समय दर्ज करें\")"
+<<<<<<< HEAD
       }      
+=======
+    }
+>>>>>>> c63cdb7a82bdd951c3206c6e07dcb91ce532252e
 }

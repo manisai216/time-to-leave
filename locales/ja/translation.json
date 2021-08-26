@@ -124,7 +124,8 @@
     },
     "$Notification": {
         "punch-reminder": "打刻をお忘れなく!",
-        "time-to-leave": "お疲れ様です！退勤時間になりました。"
+        "time-to-leave": "お疲れ様です！退勤時間になりました。",
+        "dismiss-for-today": "Dismiss for today"
     },
     "$Preferences": {
         "allowRecurringNotifications": "通知の繰り返しを許可",
@@ -212,5 +213,9 @@
     },
     "$Generic": {
         "hours-on-invalid": "this.setCustomValidity(\"00:00から23:59までの有効な24時間形式で時刻を入力してください\")"
+<<<<<<< HEAD
       }
+=======
+    }
+>>>>>>> c63cdb7a82bdd951c3206c6e07dcb91ce532252e
 }

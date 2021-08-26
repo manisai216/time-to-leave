@@ -124,7 +124,8 @@
     },
     "$Notification": {
         "punch-reminder": "પંચ કરવાનું ભૂલો નહિં!",
-        "time-to-leave": "અરે ત્યાં! મને લાગે છે કે હવે વિદાય લેવાનો સમય છે."
+        "time-to-leave": "અરે ત્યાં! મને લાગે છે કે હવે વિદાય લેવાનો સમય છે.",
+        "dismiss-for-today": "Dismiss for today"
     },
     "$Preferences": {
         "allowRecurringNotifications": "રિકરિંગ સૂચનાઓને મંજૂરી આપો",
@@ -212,5 +213,9 @@
     },
     "$Generic": {
         "hours-on-invalid": "this.setCustomValidity(\"કૃપા કરી સમય 00:00 થી 23:59 સુધી માન્ય 24-કલાકના બંધારણમાં દાખલ કરો\")"
+<<<<<<< HEAD
       }      
+=======
+    }
+>>>>>>> c63cdb7a82bdd951c3206c6e07dcb91ce532252e
 }

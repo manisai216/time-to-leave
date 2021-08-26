@@ -124,7 +124,8 @@
     },
     "$Notification": {
         "punch-reminder": "பன்ச் செய்ய மறவாதீர்கள்",
-        "time-to-leave": "இது நீங்கள் வெளியேற வேண்டிய நேரம் என்று நினைக்கிறேன்."
+        "time-to-leave": "இது நீங்கள் வெளியேற வேண்டிய நேரம் என்று நினைக்கிறேன்.",
+        "dismiss-for-today": "Dismiss for today"
     },
     "$Preferences": {
         "allowRecurringNotifications": "தொடர்ச்சியான அறிவிப்புகளை அனுமதிக்கவும்",
@@ -212,5 +213,9 @@
     },
     "$Generic": {
         "hours-on-invalid": "this.setCustomValidity(\"00:00 முதல் 23:59 வரை சரியான 24 மணி நேர வடிவத்தில் நேரத்தை உள்ளிடவும்\")"
+<<<<<<< HEAD
       }
+=======
+    }
+>>>>>>> c63cdb7a82bdd951c3206c6e07dcb91ce532252e
 }

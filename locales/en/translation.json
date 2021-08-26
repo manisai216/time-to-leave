@@ -124,7 +124,8 @@
     },
     "$Notification": {
         "punch-reminder": "Don't forget to punch in!",
-        "time-to-leave": "Hey there! I think it's time to leave."
+        "time-to-leave": "Hey there! I think it's time to leave.",
+        "dismiss-for-today": "Dismiss for today"
     },
     "$Preferences": {
         "allowRecurringNotifications": "Allow recurring notifications",
@@ -212,5 +213,9 @@
     },
     "$Generic": {
         "hours-on-invalid": "this.setCustomValidity(\"Please enter the time in valid 24-hour format from 00:00 to 23:59\")"
+<<<<<<< HEAD
       }      
+=======
+    }
+>>>>>>> c63cdb7a82bdd951c3206c6e07dcb91ce532252e
 }

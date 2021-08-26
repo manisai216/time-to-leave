@@ -124,7 +124,8 @@
     },
     "$Notification": {
         "punch-reminder": "Não esqueça de bater ponto!",
-        "time-to-leave": "Ei você! Acho que é hora de ir."
+        "time-to-leave": "Ei você! Acho que é hora de ir.",
+        "dismiss-for-today": "Dispensar por hoje"
     },
     "$Preferences": {
         "allowRecurringNotifications": "Permitir notificações recorrentes",
@@ -212,5 +213,9 @@
     },
     "$Generic": {
         "hours-on-invalid": "this.setCustomValidity(\"Insira a hora no formato válido de 24 horas das 00:00 às 23:59\")"
+<<<<<<< HEAD
       }
+=======
+    }
+>>>>>>> c63cdb7a82bdd951c3206c6e07dcb91ce532252e
 }

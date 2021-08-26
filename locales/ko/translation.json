@@ -124,7 +124,8 @@
     },
     "$Notification": {
         "punch-reminder": "시간 기록하는 것 잊지 마세요!",
-        "time-to-leave": "저기요! 이제 퇴근할 시간인 것 같은데요."
+        "time-to-leave": "저기요! 이제 퇴근할 시간인 것 같은데요.",
+        "dismiss-for-today": "Dismiss for today"
     },
     "$Preferences": {
         "allowRecurringNotifications": "반복 알림 허용",
@@ -212,5 +213,9 @@
     },
     "$Generic": {
         "hours-on-invalid": "this.setCustomValidity(\"00:00부터 23:59까지 유효한 24 시간 형식으로 시간을 입력하세요.\")"
+<<<<<<< HEAD
       }
+=======
+    }
+>>>>>>> c63cdb7a82bdd951c3206c6e07dcb91ce532252e
 }

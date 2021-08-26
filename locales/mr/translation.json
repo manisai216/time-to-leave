@@ -124,7 +124,8 @@
     },
     "$Notification": {
         "punch-reminder": "मध्ये मुक्काम विसरू नका!",
-        "time-to-leave": "अहो तिथे! मला वाटते आता निघण्याची वेळ आली आहे."
+        "time-to-leave": "अहो तिथे! मला वाटते आता निघण्याची वेळ आली आहे.",
+        "dismiss-for-today": "Dismiss for today"
     },
     "$Preferences": {
         "allowRecurringNotifications": "आवर्ती सूचनांना परवानगी द्या",
@@ -212,5 +213,9 @@
     },
     "$Generic": {
         "hours-on-invalid": "this.setCustomValidity(\"कृपया 00:00 ते 23:59 पर्यंत 24 तासांच्या वैध स्वरूपात वेळ प्रविष्ट करा\")"
+<<<<<<< HEAD
       }
+=======
+    }
+>>>>>>> c63cdb7a82bdd951c3206c6e07dcb91ce532252e
 }

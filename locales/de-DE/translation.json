@@ -124,7 +124,8 @@
     },
     "$Notification": {
         "punch-reminder": "Nicht vergessen Zeiten einzutragen",
-        "time-to-leave": "Sie da! Ich denke es ist Zeit zu gehen."
+        "time-to-leave": "Sie da! Ich denke es ist Zeit zu gehen.",
+        "dismiss-for-today": "Dismiss for today"
     },
     "$Preferences": {
         "allowRecurringNotifications": "Wiederkehrende Benachrichtigungen erlauben",
@@ -212,5 +213,9 @@
     },
     "$Generic": {
         "hours-on-invalid": "this.setCustomValidity(\"Bitte geben Sie die Uhrzeit im gültigen 24-Stunden-Format von 00:00 bis 23:59 Uhr ein\")"
+<<<<<<< HEAD
       }      
+=======
+    }
+>>>>>>> c63cdb7a82bdd951c3206c6e07dcb91ce532252e
 }

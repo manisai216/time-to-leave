@@ -124,7 +124,8 @@
     },
     "$Notification": {
         "punch-reminder": "Vergeet niet de begintijd in te voeren!",
-        "time-to-leave": "Hé daar! Ik denk dat het tijd is om te gaan."
+        "time-to-leave": "Hé daar! Ik denk dat het tijd is om te gaan.",
+        "dismiss-for-today": "Dismiss for today"
     },
     "$Preferences": {
         "allowRecurringNotifications": "Terugkerende meldingen toestaan",
@@ -212,5 +213,9 @@
     },
     "$Generic": {
         "hours-on-invalid": "this.setCustomValidity(\"Voer de tijd in een geldig 24-uurs formaat in van 00:00 tot 23:59\")"
+<<<<<<< HEAD
       }
+=======
+    }
+>>>>>>> c63cdb7a82bdd951c3206c6e07dcb91ce532252e
 }

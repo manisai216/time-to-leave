@@ -124,7 +124,8 @@
     },
     "$Notification": {
         "punch-reminder": "Damga atmayı unutmayınız!",
-        "time-to-leave": "Selam! bence ayrılma zamanınız geldi."
+        "time-to-leave": "Selam! bence ayrılma zamanınız geldi.",
+        "dismiss-for-today": "Dismiss for today"
     },
     "$Preferences": {
         "allowRecurringNotifications": "Yinelenen bildirimlere izin ver ",
@@ -212,5 +213,9 @@
     },
     "$Generic": {
         "hours-on-invalid": "this.setCustomValidity(\"Lütfen saati 00:00 ile 23:59 arasında geçerli 24 saatlik biçimde girin\")"
+<<<<<<< HEAD
       }
+=======
+    }
+>>>>>>> c63cdb7a82bdd951c3206c6e07dcb91ce532252e
 }

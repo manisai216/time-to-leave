@@ -124,7 +124,8 @@
     },
     "$Notification": {
         "punch-reminder": "No T'oblidis de fitxar!",
-        "time-to-leave": "¡Hola! Crec que es hora de marcha"
+        "time-to-leave": "¡Hola! Crec que es hora de marcha",
+        "dismiss-for-today": "Dismiss for today"
     },
     "$Preferences": {
         "allowRecurringNotifications": "Permetre notificacions recurrents",
@@ -212,5 +213,9 @@
     },
     "$Generic": {
         "hours-on-invalid": "this.setCustomValidity(\"Introduïu l'hora en format vàlid de 24 hores de 00:00 a 23:59\")"
+<<<<<<< HEAD
       }
+=======
+    }
+>>>>>>> c63cdb7a82bdd951c3206c6e07dcb91ce532252e
 }
